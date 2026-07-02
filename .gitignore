@@ -1,0 +1,9 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# macOS 系统文件
+.DS_Store
+
+# VS Code 配置（可选）
+.vscode/
